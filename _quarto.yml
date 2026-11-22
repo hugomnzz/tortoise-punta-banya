@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hermann's tortoise at Punta de la Banya"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Start Here
+      - href: microclimate.qmd
+        text: Microclimate
+      - href: ectotherm.qmd
+        text: Ectotherm model
+    right:
+      - icon: github
+        href: https://github.com/hugomnzz/tortoise-punta-banya
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+    code-tools: true
+
+execute:
+  freeze: auto
+  warning: false
+  message: false

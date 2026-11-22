@@ -1,0 +1,4 @@
+---
+title: "Microclimate"
+---
+Hourly microclimate at Punta de la Banya modelled with NicheMapR. This page compares four microhabitats: the soil surface and 10 cm underground, each in full sun and in shade.

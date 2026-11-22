@@ -1,0 +1,16 @@
+---
+title: "Start Here"
+---
+
+## Overview
+
+This project studies how temperature affects *Testudo hermanni* and whether the population introduced at Punta de la Banya (Ebro Delta) can survive there in the long term. It combines measurements of metabolic rate at different temperatures with microclimate and body temperature models.
+
+## Pages
+
+- [Microclimate](microclimate.qmd): modelled temperatures at the site, on the surface and underground, in sun and in shade.
+- [Ectotherm model](ectotherm.qmd): body temperature and activity of the tortoise.
+
+## Data
+
+The `data/` folder contains small processed datasets and saved model results (`.rds`). Raw climate data used by the models are not stored in this repository because of their size.

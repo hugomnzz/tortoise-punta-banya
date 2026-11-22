@@ -1,0 +1,6 @@
+---
+  title: "Ectotherm model"
+---
+  
+  Estimation of the body temperature and activity patterns of *Testudo hermanni* 
+  at Punta de la Banya using an ectotherm model (NicheMapR).
