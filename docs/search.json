@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "microclimate.html",
+    "href": "microclimate.html",
+    "title": "Microclimate",
+    "section": "",
+    "text": "Hourly microclimate at Punta de la Banya modelled with NicheMapR. This page compares four microhabitats: the soil surface and 10 cm underground, each in full sun and in shade."
+  },
+  {
+    "objectID": "ectotherm.html",
+    "href": "ectotherm.html",
+    "title": "Ectotherm model",
+    "section": "",
+    "text": "Estimation of the body temperature and activity patterns of Testudo hermanni at Punta de la Banya using an ectotherm model (NicheMapR)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Start Here",
+    "section": "",
+    "text": "This project studies how temperature affects Testudo hermanni and whether the population introduced at Punta de la Banya (Ebro Delta) can survive there in the long term. It combines measurements of metabolic rate at different temperatures with microclimate and body temperature models."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Start Here",
+    "section": "",
+    "text": "This project studies how temperature affects Testudo hermanni and whether the population introduced at Punta de la Banya (Ebro Delta) can survive there in the long term. It combines measurements of metabolic rate at different temperatures with microclimate and body temperature models."
+  },
+  {
+    "objectID": "index.html#pages",
+    "href": "index.html#pages",
+    "title": "Start Here",
+    "section": "Pages",
+    "text": "Pages\n\nMicroclimate: modelled temperatures at the site, on the surface and underground, in sun and in shade.\nEctotherm model: body temperature and activity of the tortoise."
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "Start Here",
+    "section": "Data",
+    "text": "Data\nThe data/ folder contains small processed datasets and saved model results (.rds). Raw climate data used by the models are not stored in this repository because of their size."
+  }
+]
